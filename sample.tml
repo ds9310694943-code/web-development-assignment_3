@@ -24,7 +24,7 @@
         <p>Who Builds modern web applications with MERN stack.</p>
     </div>
     <div class="hero-img">
-        <img src="profile picture.jpg" alt="Profile" />
+        <img src="picture.jpg" alt="Profile" />
     </div>
 </section>
 
